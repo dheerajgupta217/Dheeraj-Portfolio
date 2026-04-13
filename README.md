@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Dheeraj Gupta
 
 🚀 Data Engineer | Data Scientist | Backend Engineer
-☁️ AWS | Python | Java | Distributed Systems
+☁️ AWS | AZURE | Python | Java | Databricks 
 
 ---
 
