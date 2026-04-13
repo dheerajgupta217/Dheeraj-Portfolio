@@ -1,7 +1,3 @@
-#
-
-# Dheeraj Portfolio
-
 # 👋 Hi, I'm Dheeraj Gupta
 
 🚀 Data Engineer | Data Scientist | Backend Engineer
