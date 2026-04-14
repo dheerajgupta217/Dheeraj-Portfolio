@@ -169,14 +169,6 @@ I write about Git workflows, backend engineering, and practical development stra
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheerajgupta217\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajgupta217\&layout=compact)
-
----
-
 ## 🏆 Achievements
 
 * 🎯 Active Open Source Contributor
