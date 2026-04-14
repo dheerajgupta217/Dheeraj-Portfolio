@@ -32,7 +32,7 @@ Built a recommendation engine leveraging collaborative filtering and regression 
 
 ### 📉 Customer Churn Prediction
 
-🔗 https://github.com/dheerajgupta217/customerChurnTeleo
+🔗 [https://github.com/dheerajgupta217/customerChurnTeleo](https://github.com/dheerajgupta217/customerChurnTeleo)
 
 Developed a predictive model to identify customers at risk of churn using historical behavioral data.
 
@@ -46,7 +46,7 @@ Developed a predictive model to identify customers at risk of churn using histor
 
 ### ⚡ Microservices Backend with Deno
 
-🔗 https://github.com/dheerajgupta217/getting-started-with-deno
+🔗 [https://github.com/dheerajgupta217/getting-started-with-deno]( https://github.com/dheerajgupta217/getting-started-with-deno)
 
 Designed a microservices-based backend system using Deno with REST APIs and MySQL integration.
 
@@ -74,8 +74,8 @@ Implemented a distributed in-memory data grid using Hazelcast to support scalabl
 
 ### ⚙️ Apache Spark Templates
 
-🔗 https://github.com/dheerajgupta217/spark-demo-sbt
-🔗 https://github.com/dheerajgupta217/spark-demo-maven
+🔗 [https://github.com/dheerajgupta217/spark-demo-sbt](https://github.com/dheerajgupta217/spark-demo-sbt)
+🔗 [https://github.com/dheerajgupta217/spark-demo-maven](https://github.com/dheerajgupta217/spark-demo-maven)
 
 Created reusable templates for building scalable data processing pipelines using Apache Spark.
 
@@ -118,7 +118,7 @@ Client → Hazelcast Cluster → Distributed Data Store
 ## 🌍 Open Source & Contributions
 
 🔗 GitHub Profile
-👉 [https://github.com/dheerajgupta217] (https://github.com/dheerajgupta217)
+👉 [https://github.com/dheerajgupta217](https://github.com/dheerajgupta217)
 
 🔗 Developer Community (Hacktoberfest & Contributions)
 👉 [https://dev.to/dheerajgupta217](https://dev.to/dheerajgupta217)
@@ -137,7 +137,7 @@ I actively contribute to open-source projects and participate in collaborative d
 
 👉 [https://www.tothenew.com/blog/git-add-multiple-repositoriesbitbucket-github-to-the-same-project/](https://www.tothenew.com/blog/git-add-multiple-repositoriesbitbucket-github-to-the-same-project/)
 
-I write about Git workflows, backend engineering, and practical development strategies, focusing on real-world implementation.
+I write about Data Engineering, Git workflows, backend engineering, and practical development strategies, focusing on real-world implementation.
 
 ---
 
@@ -148,7 +148,7 @@ I write about Git workflows, backend engineering, and practical development stra
 * Python
 * Java
 * Scala
-* Azure
+* SQL
 
 **Data & ML**
 
