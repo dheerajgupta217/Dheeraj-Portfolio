@@ -129,10 +129,10 @@ I actively contribute to open-source projects and participate in collaborative d
 ## ✍️ Technical Writing
 
 🔗 DZone Articles
-👉 https://dzone.com/users/3467640/dheeraj217.html
+👉 [https://dzone.com/users/3467640/dheeraj217.html](https://dzone.com/users/3467640/dheeraj217.html)
 
 🔗 Blog (Git Multi-Repository Setup)
-👉 https://www.tothenew.com/blog/git-add-multiple-repositoriesbitbucket-github-to-the-same-project/
+👉 [https://www.tothenew.com/blog/git-add-multiple-repositoriesbitbucket-github-to-the-same-project/](https://www.tothenew.com/blog/git-add-multiple-repositoriesbitbucket-github-to-the-same-project/)
 
 I write about Git workflows, backend engineering, and practical development strategies, focusing on real-world implementation.
 
@@ -145,7 +145,7 @@ I write about Git workflows, backend engineering, and practical development stra
 * Python
 * Java
 * Scala
-* TypeScript
+* Azure
 
 **Data & ML**
 
@@ -160,6 +160,7 @@ I write about Git workflows, backend engineering, and practical development stra
 
 **Cloud & Tools**
 
+* Azure
 * AWS
 * Git, GitHub
 
