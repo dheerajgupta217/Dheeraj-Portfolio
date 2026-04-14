@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Dheeraj Gupta
 
 🚀 Data Engineer | Data Scientist | Backend Engineer
+
 ☁️ AWS | AZURE | Python | Java | Databricks 
 
 ---
@@ -17,7 +18,7 @@ I have hands-on experience across machine learning, distributed computing, and b
 
 ### 🎯 OTT Recommendation System
 
-🔗 https://github.com/dheerajgupta217/OTT-Recommendation-System-Basics
+🔗 [https://github.com/dheerajgupta217/OTT-Recommendation-System-Basics](https://github.com/dheerajgupta217/OTT-Recommendation-System-Basics)
 
 Built a recommendation engine leveraging collaborative filtering and regression techniques to deliver personalized content suggestions.
 
@@ -117,10 +118,10 @@ Client → Hazelcast Cluster → Distributed Data Store
 ## 🌍 Open Source & Contributions
 
 🔗 GitHub Profile
-👉 https://github.com/dheerajgupta217
+👉 [https://github.com/dheerajgupta217] (https://github.com/dheerajgupta217)
 
 🔗 Developer Community (Hacktoberfest & Contributions)
-👉 https://dev.to/dheerajgupta217
+👉 [https://dev.to/dheerajgupta217](https://dev.to/dheerajgupta217)
 
 I actively contribute to open-source projects and participate in collaborative development through pull requests, issue tracking, and community-driven initiatives.
 
@@ -129,9 +130,11 @@ I actively contribute to open-source projects and participate in collaborative d
 ## ✍️ Technical Writing
 
 🔗 DZone Articles
+
 👉 [https://dzone.com/users/3467640/dheeraj217.html](https://dzone.com/users/3467640/dheeraj217.html)
 
 🔗 Blog (Git Multi-Repository Setup)
+
 👉 [https://www.tothenew.com/blog/git-add-multiple-repositoriesbitbucket-github-to-the-same-project/](https://www.tothenew.com/blog/git-add-multiple-repositoriesbitbucket-github-to-the-same-project/)
 
 I write about Git workflows, backend engineering, and practical development strategies, focusing on real-world implementation.
@@ -186,10 +189,8 @@ I write about Git workflows, backend engineering, and practical development stra
 ## 🤝 Connect With Me
 
 🔗 LinkedIn
-👉 https://www.linkedin.com/in/dheerajgupta217/
+👉 [https://www.linkedin.com/in/dheerajgupta217/](https://www.linkedin.com/in/dheerajgupta217/)
 
-🔗 GitHub
-👉 https://github.com/dheerajgupta217
 
 ---
 
